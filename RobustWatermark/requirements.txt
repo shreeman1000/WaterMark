@@ -1,0 +1,6 @@
+transformers
+matplotlib
+accelerate
+SentencePiece
+scipy
+jieba
