@@ -1,0 +1,7 @@
+evaluate
+transformers
+numpy
+nltk
+datasets
+seaborn
+# pip3 install git+https://github.com/PrithivirajDamodaran/Parrot_Paraphraser.git

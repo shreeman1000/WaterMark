@@ -1,0 +1,802 @@
+[
+    {
+        "original": 0.0899835852,
+        "Recursive0": 2.7503397858,
+        "Recursive1": 2.6006313046,
+        "Recursive2": 2.8014981472,
+        "Recursive3": 2.988512399,
+        "Recursive4": 3.0948977279
+    },
+    {
+        "original": 0.0726338276,
+        "Recursive0": 1.6953968147,
+        "Recursive1": 1.1089908712,
+        "Recursive2": 1.0298378936,
+        "Recursive3": 1.7001847771,
+        "Recursive4": 1.1031168392
+    },
+    {
+        "original": 0.0569535482,
+        "Recursive0": 2.607079626,
+        "Recursive1": 1.9424054336,
+        "Recursive2": 1.4740960049,
+        "Recursive3": 2.1717588216,
+        "Recursive4": 1.7528440337
+    },
+    {
+        "original": 0.0160385165,
+        "Recursive0": 0.0198235641,
+        "Recursive1": 0.2063490629,
+        "Recursive2": 0.4862260884,
+        "Recursive3": 0.1858372682,
+        "Recursive4": 0.2200412119
+    },
+    {
+        "original": 0.2313793393,
+        "Recursive0": 0.0941301923,
+        "Recursive1": 0.0254615489,
+        "Recursive2": 0.0,
+        "Recursive3": 0.2975860871,
+        "Recursive4": 0.3678751823
+    },
+    {
+        "original": 0.0317852048,
+        "Recursive0": 2.3376766268,
+        "Recursive1": 1.5526231966,
+        "Recursive2": 1.483897405,
+        "Recursive3": 1.3147882049,
+        "Recursive4": 1.2603186252
+    },
+    {
+        "original": 0.5290372818,
+        "Recursive0": 0.8488892098,
+        "Recursive1": 0.4036726063,
+        "Recursive2": 0.0941301923,
+        "Recursive3": 0.0411404717,
+        "Recursive4": 0.0005442855
+    },
+    {
+        "original": 0.0667842475,
+        "Recursive0": 0.4795370647,
+        "Recursive1": 0.3678751823,
+        "Recursive2": 0.125673019,
+        "Recursive3": 0.0010350814,
+        "Recursive4": 0.1361166542
+    },
+    {
+        "original": 0.0526694274,
+        "Recursive0": 0.0140407208,
+        "Recursive1": 0.0344245641,
+        "Recursive2": 0.0707105186,
+        "Recursive3": 0.0276272495,
+        "Recursive4": 0.0397808211
+    },
+    {
+        "original": 0.2618774766,
+        "Recursive0": 1.9123937726,
+        "Recursive1": 1.1414300369,
+        "Recursive2": 0.7782072576,
+        "Recursive3": 1.8054751723,
+        "Recursive4": 1.0961292852
+    },
+    {
+        "original": 0.0082957164,
+        "Recursive0": 0.3046604184,
+        "Recursive1": 0.4578858499,
+        "Recursive2": 0.3242790822,
+        "Recursive3": 0.0774386048,
+        "Recursive4": 0.0774386048
+    },
+    {
+        "original": 0.2404749715,
+        "Recursive0": 1.5459889127,
+        "Recursive1": 1.3500307795,
+        "Recursive2": 1.0568418581,
+        "Recursive3": 1.0640640913,
+        "Recursive4": 0.5150430913
+    },
+    {
+        "original": 0.0149411546,
+        "Recursive0": 0.8305415771,
+        "Recursive1": 0.0045719996,
+        "Recursive2": 0.1590283588,
+        "Recursive3": 0.3046604184,
+        "Recursive4": 0.00376691
+    },
+    {
+        "original": 0.2825422171,
+        "Recursive0": 0.076723515,
+        "Recursive1": 0.0044208729,
+        "Recursive2": 0.0456654148,
+        "Recursive3": 0.0028293812,
+        "Recursive4": 0.0031571599
+    },
+    {
+        "original": 0.5454464989,
+        "Recursive0": 1.7938344516,
+        "Recursive1": 0.8627668658,
+        "Recursive2": 0.5607591121,
+        "Recursive3": 0.3242790822,
+        "Recursive4": 0.0892221008
+    },
+    {
+        "original": 0.0083464525,
+        "Recursive0": 0.3843750454,
+        "Recursive1": 0.3105030114,
+        "Recursive2": 0.151371284,
+        "Recursive3": 0.0670861662,
+        "Recursive4": 0.0707105186
+    },
+    {
+        "original": 0.0251730714,
+        "Recursive0": 0.0045719996,
+        "Recursive1": 0.0473406747,
+        "Recursive2": 1.0287808679,
+        "Recursive3": 0.0596404541,
+        "Recursive4": 0.0235408593
+    },
+    {
+        "original": 0.1215888517,
+        "Recursive0": 0.7087488388,
+        "Recursive1": 0.5726864581,
+        "Recursive2": 0.299381492,
+        "Recursive3": 0.2063490629,
+        "Recursive4": 0.1998279074
+    },
+    {
+        "original": 0.1199351606,
+        "Recursive0": 0.0550557533,
+        "Recursive1": 0.0577402346,
+        "Recursive2": 0.0207903264,
+        "Recursive3": 0.0025501188,
+        "Recursive4": 0.0025501188
+    },
+    {
+        "original": 0.3696555162,
+        "Recursive0": 1.7698757022,
+        "Recursive1": 1.59365229,
+        "Recursive2": 0.8942332541,
+        "Recursive3": 0.5701540855,
+        "Recursive4": 0.6014496689
+    },
+    {
+        "original": 0.0328778468,
+        "Recursive0": 0.7188181362,
+        "Recursive1": 0.7828698223,
+        "Recursive2": 0.7538254048,
+        "Recursive3": 1.2400223225,
+        "Recursive4": 0.4411212536
+    },
+    {
+        "original": 0.3647028124,
+        "Recursive0": 0.4411212536,
+        "Recursive1": 0.5197776491,
+        "Recursive2": 0.3812936016,
+        "Recursive3": 0.7342845885,
+        "Recursive4": 1.1995304903
+    },
+    {
+        "original": 0.5247503928,
+        "Recursive0": 1.2830595693,
+        "Recursive1": 0.6165875463,
+        "Recursive2": 0.4578858499,
+        "Recursive3": 0.3602188502,
+        "Recursive4": 0.4973258826
+    },
+    {
+        "original": 0.1208888128,
+        "Recursive0": 0.9577560222,
+        "Recursive1": 0.375989473,
+        "Recursive2": 0.0189226973,
+        "Recursive3": 0.749328445,
+        "Recursive4": 0.4411212536
+    },
+    {
+        "original": 0.0186360206,
+        "Recursive0": 1.060509428,
+        "Recursive1": 0.5354853528,
+        "Recursive2": 0.2171959075,
+        "Recursive3": 0.7884898062,
+        "Recursive4": 0.5321474983
+    },
+    {
+        "original": 0.0230946488,
+        "Recursive0": 1.1841867284,
+        "Recursive1": 0.8821775566,
+        "Recursive2": 1.4470623727,
+        "Recursive3": 1.155831842,
+        "Recursive4": 1.1363852547
+    },
+    {
+        "original": 0.1387630075,
+        "Recursive0": 1.8190021884,
+        "Recursive1": 1.3447979566,
+        "Recursive2": 1.6033495995,
+        "Recursive3": 0.5247503928,
+        "Recursive4": 0.4208852953
+    },
+    {
+        "original": 0.6066378714,
+        "Recursive0": 0.0,
+        "Recursive1": 0.0028293812,
+        "Recursive2": 0.0028293812,
+        "Recursive3": 0.0550557533,
+        "Recursive4": 0.0550557533
+    },
+    {
+        "original": 0.2073711126,
+        "Recursive0": 3.1099969194,
+        "Recursive1": 1.6165380995,
+        "Recursive2": 1.0572793714,
+        "Recursive3": 0.6058436542,
+        "Recursive4": 0.8981809445
+    },
+    {
+        "original": 0.030842884,
+        "Recursive0": 1.6321554638,
+        "Recursive1": 1.0103386144,
+        "Recursive2": 1.218693399,
+        "Recursive3": 0.8808179889,
+        "Recursive4": 0.6345976421
+    },
+    {
+        "original": 1.1296631743,
+        "Recursive0": 0.7669431238,
+        "Recursive1": 0.5147716434,
+        "Recursive2": 0.3981976825,
+        "Recursive3": 0.3935631674,
+        "Recursive4": 0.2985150165
+    },
+    {
+        "original": 0.0165600171,
+        "Recursive0": 0.1835427492,
+        "Recursive1": 0.1561781187,
+        "Recursive2": 0.0610557696,
+        "Recursive3": 0.0014435718,
+        "Recursive4": 0.040588369
+    },
+    {
+        "original": 0.1738416822,
+        "Recursive0": 0.4208852953,
+        "Recursive1": 0.0086072522,
+        "Recursive2": 0.0707105186,
+        "Recursive3": 0.1314465441,
+        "Recursive4": 0.1962946736
+    },
+    {
+        "original": 0.3319640432,
+        "Recursive0": 1.2908205426,
+        "Recursive1": 1.5090200437,
+        "Recursive2": 0.3242790822,
+        "Recursive3": 0.4208852953,
+        "Recursive4": 1.4441587601
+    },
+    {
+        "original": 0.5335092051,
+        "Recursive0": 0.5114157499,
+        "Recursive1": 0.239742696,
+        "Recursive2": 0.749328445,
+        "Recursive3": 0.6883962849,
+        "Recursive4": 0.2955117762
+    },
+    {
+        "original": 0.6276268745,
+        "Recursive0": 0.0086072522,
+        "Recursive1": 0.0360830448,
+        "Recursive2": 0.0129913963,
+        "Recursive3": 0.176193564,
+        "Recursive4": 0.0
+    },
+    {
+        "original": 0.0012763514,
+        "Recursive0": 0.4291443093,
+        "Recursive1": 0.0,
+        "Recursive2": 0.1566116067,
+        "Recursive3": 0.0734821998,
+        "Recursive4": 0.0129913963
+    },
+    {
+        "original": 0.0430645005,
+        "Recursive0": 0.1786356541,
+        "Recursive1": 0.1558973156,
+        "Recursive2": 0.062862676,
+        "Recursive3": 0.0300814752,
+        "Recursive4": 0.0273013116
+    },
+    {
+        "original": 0.0120554511,
+        "Recursive0": 1.8746544028,
+        "Recursive1": 1.598367717,
+        "Recursive2": 1.9307653299,
+        "Recursive3": 2.1077413837,
+        "Recursive4": 1.2908205426
+    },
+    {
+        "original": 0.1383406932,
+        "Recursive0": 1.1293597135,
+        "Recursive1": 0.5247503928,
+        "Recursive2": 0.1733037504,
+        "Recursive3": 0.0941301923,
+        "Recursive4": 0.1912665026
+    },
+    {
+        "original": 0.4387258721,
+        "Recursive0": 0.2467881061,
+        "Recursive1": 0.206964392,
+        "Recursive2": 0.3101524081,
+        "Recursive3": 0.0550557533,
+        "Recursive4": 0.0162961382
+    },
+    {
+        "original": 0.0023102497,
+        "Recursive0": 1.4577399821,
+        "Recursive1": 0.3878079479,
+        "Recursive2": 0.2850669393,
+        "Recursive3": 0.2289206941,
+        "Recursive4": 0.0941301923
+    },
+    {
+        "original": 0.3319640432,
+        "Recursive0": 0.8534712672,
+        "Recursive1": 0.6401955084,
+        "Recursive2": 0.5987075401,
+        "Recursive3": 0.2383484821,
+        "Recursive4": 0.0423881681
+    },
+    {
+        "original": 0.0011760052,
+        "Recursive0": 2.6652027242,
+        "Recursive1": 2.0396427074,
+        "Recursive2": 1.7528440337,
+        "Recursive3": 1.4613817175,
+        "Recursive4": 1.6967868755
+    },
+    {
+        "original": 0.0249270047,
+        "Recursive0": 2.1197600491,
+        "Recursive1": 1.4540884828,
+        "Recursive2": 1.0889925513,
+        "Recursive3": 1.3579892389,
+        "Recursive4": 0.6345976421
+    },
+    {
+        "original": 0.2772437399,
+        "Recursive0": 0.4315003824,
+        "Recursive1": 0.4300482039,
+        "Recursive2": 0.0268756239,
+        "Recursive3": 0.0229487281,
+        "Recursive4": 0.0440775249
+    },
+    {
+        "original": 0.0321432875,
+        "Recursive0": 1.8513507205,
+        "Recursive1": 0.8758955726,
+        "Recursive2": 0.3242790822,
+        "Recursive3": 0.889583168,
+        "Recursive4": 0.9230137394
+    },
+    {
+        "original": 0.0977026937,
+        "Recursive0": 0.0550557533,
+        "Recursive1": 0.0338970818,
+        "Recursive2": 0.0129913963,
+        "Recursive3": 0.028410851,
+        "Recursive4": 0.0550557533
+    },
+    {
+        "original": 0.2583058487,
+        "Recursive0": 0.7268394136,
+        "Recursive1": 0.5201015626,
+        "Recursive2": 0.2587823756,
+        "Recursive3": 0.5114157499,
+        "Recursive4": 0.2131547525
+    },
+    {
+        "original": 0.067542897,
+        "Recursive0": 1.0034809619,
+        "Recursive1": 0.4699716548,
+        "Recursive2": 0.299381492,
+        "Recursive3": 0.1331092999,
+        "Recursive4": 0.1755973281
+    },
+    {
+        "original": 0.418836505,
+        "Recursive0": 0.9634633589,
+        "Recursive1": 0.4695984278,
+        "Recursive2": 0.4719947842,
+        "Recursive3": 0.0411404717,
+        "Recursive4": 0.1314465441
+    },
+    {
+        "original": 0.0064025275,
+        "Recursive0": 0.3696555162,
+        "Recursive1": 0.1168618256,
+        "Recursive2": 0.0015601774,
+        "Recursive3": 0.0172958654,
+        "Recursive4": 0.0025501188
+    },
+    {
+        "original": 0.1104632105,
+        "Recursive0": 0.6345976421,
+        "Recursive1": 0.7398031867,
+        "Recursive2": 0.4719947842,
+        "Recursive3": 0.1223896035,
+        "Recursive4": 0.3130183482
+    },
+    {
+        "original": 0.2348539478,
+        "Recursive0": 0.1029802618,
+        "Recursive1": 0.0418465852,
+        "Recursive2": 0.0300814752,
+        "Recursive3": 0.028410851,
+        "Recursive4": 0.2093637637
+    },
+    {
+        "original": 0.418375944,
+        "Recursive0": 0.0978559379,
+        "Recursive1": 0.248370647,
+        "Recursive2": 0.0984061916,
+        "Recursive3": 0.1555551389,
+        "Recursive4": 0.6345976421
+    },
+    {
+        "original": 0.0660383071,
+        "Recursive0": 2.1847368045,
+        "Recursive1": 1.8889652285,
+        "Recursive2": 0.3843750454,
+        "Recursive3": 0.2704077431,
+        "Recursive4": 0.1314465441
+    },
+    {
+        "original": 0.0030700714,
+        "Recursive0": 1.3541218489,
+        "Recursive1": 0.9643691715,
+        "Recursive2": 0.6674480976,
+        "Recursive3": 0.3959990244,
+        "Recursive4": 0.8439889488
+    },
+    {
+        "original": 0.393328632,
+        "Recursive0": 0.0035453803,
+        "Recursive1": 0.0042771174,
+        "Recursive2": 0.5944361798,
+        "Recursive3": 0.5062237318,
+        "Recursive4": 0.4208852953
+    },
+    {
+        "original": 0.0885968086,
+        "Recursive0": 0.7192201156,
+        "Recursive1": 0.4263263639,
+        "Recursive2": 0.120271618,
+        "Recursive3": 0.0498985367,
+        "Recursive4": 0.0
+    },
+    {
+        "original": 0.0060005719,
+        "Recursive0": 0.5611415247,
+        "Recursive1": 0.0885968086,
+        "Recursive2": 0.0321432875,
+        "Recursive3": 0.2745382563,
+        "Recursive4": 0.2546902434
+    },
+    {
+        "original": 0.1433431764,
+        "Recursive0": 0.5740092274,
+        "Recursive1": 0.488660394,
+        "Recursive2": 0.0125103056,
+        "Recursive3": 0.2149591977,
+        "Recursive4": 0.0026843111
+    },
+    {
+        "original": 0.2024463275,
+        "Recursive0": 3.6577397645,
+        "Recursive1": 3.5716424754,
+        "Recursive2": 3.5989329902,
+        "Recursive3": 4.0207260199,
+        "Recursive4": 2.942906401
+    },
+    {
+        "original": 0.2653743282,
+        "Recursive0": 0.0,
+        "Recursive1": 0.0397808211,
+        "Recursive2": 0.0397808211,
+        "Recursive3": 0.0397808211,
+        "Recursive4": 0.1962946736
+    },
+    {
+        "original": 0.9577560222,
+        "Recursive0": 3.6577397645,
+        "Recursive1": 1.1253880779,
+        "Recursive2": 1.1061757239,
+        "Recursive3": 1.2318475319,
+        "Recursive4": 1.1061757239
+    },
+    {
+        "original": 0.0384874718,
+        "Recursive0": 0.1397844846,
+        "Recursive1": 0.1068730725,
+        "Recursive2": 0.0218295708,
+        "Recursive3": 0.0254615489,
+        "Recursive4": 0.020298315
+    },
+    {
+        "original": 0.3061943259,
+        "Recursive0": 1.8534902204,
+        "Recursive1": 0.7639645456,
+        "Recursive2": 0.9464922035,
+        "Recursive3": 0.8187114698,
+        "Recursive4": 0.7828698223
+    },
+    {
+        "original": 0.3147570109,
+        "Recursive0": 1.4761143917,
+        "Recursive1": 0.7293998671,
+        "Recursive2": 0.57256608,
+        "Recursive3": 0.2058008275,
+        "Recursive4": 0.045869916
+    },
+    {
+        "original": 0.1648896887,
+        "Recursive0": 0.1878608239,
+        "Recursive1": 0.0019219106,
+        "Recursive2": 0.0229487281,
+        "Recursive3": 0.1590283588,
+        "Recursive4": 0.0104632884
+    },
+    {
+        "original": 0.0213748491,
+        "Recursive0": 2.1651981467,
+        "Recursive1": 0.7881474833,
+        "Recursive2": 0.8357086802,
+        "Recursive3": 0.927252355,
+        "Recursive4": 1.2285048723
+    },
+    {
+        "original": 0.0004967215,
+        "Recursive0": 0.0941301923,
+        "Recursive1": 0.2646314474,
+        "Recursive2": 0.2646314474,
+        "Recursive3": 0.0146137111,
+        "Recursive4": 0.0811685421
+    },
+    {
+        "original": 0.1545836735,
+        "Recursive0": 1.5564986084,
+        "Recursive1": 0.8581420864,
+        "Recursive2": 0.6928149925,
+        "Recursive3": 0.5924288251,
+        "Recursive4": 0.6723482599
+    },
+    {
+        "original": 0.058765267,
+        "Recursive0": 0.8748792682,
+        "Recursive1": 0.3678751823,
+        "Recursive2": 0.1131394939,
+        "Recursive3": 0.4054081055,
+        "Recursive4": 0.134689829
+    },
+    {
+        "original": 0.0016915038,
+        "Recursive0": 3.9739066199,
+        "Recursive1": 3.311642214,
+        "Recursive2": 2.326864167,
+        "Recursive3": 2.6927958952,
+        "Recursive4": 3.5080562806
+    },
+    {
+        "original": 0.1570605337,
+        "Recursive0": 1.7055589262,
+        "Recursive1": 0.8981809445,
+        "Recursive2": 1.0321337022,
+        "Recursive3": 0.6654459245,
+        "Recursive4": 0.6674480976
+    },
+    {
+        "original": 0.0898296059,
+        "Recursive0": 1.8043060247,
+        "Recursive1": 1.4007068606,
+        "Recursive2": 0.8981809445,
+        "Recursive3": 0.4091164059,
+        "Recursive4": 0.3065410506
+    },
+    {
+        "original": 0.1617877801,
+        "Recursive0": 1.4721511333,
+        "Recursive1": 1.0543314092,
+        "Recursive2": 1.176817787,
+        "Recursive3": 1.2908205426,
+        "Recursive4": 2.0095710041
+    },
+    {
+        "original": 0.1421962683,
+        "Recursive0": 5.6148593329,
+        "Recursive1": 3.449781703,
+        "Recursive2": 2.5080169222,
+        "Recursive3": 2.1468875223,
+        "Recursive4": 2.1697804425
+    },
+    {
+        "original": 0.0109570367,
+        "Recursive0": 0.134926071,
+        "Recursive1": 0.0290619868,
+        "Recursive2": 0.188604861,
+        "Recursive3": 0.0746366775,
+        "Recursive4": 0.0235408593
+    },
+    {
+        "original": 0.0003862133,
+        "Recursive0": 0.0300814752,
+        "Recursive1": 0.0300814752,
+        "Recursive2": 0.1314465441,
+        "Recursive3": 0.1314465441,
+        "Recursive4": 0.0360830448
+    },
+    {
+        "original": 0.7959635634,
+        "Recursive0": 1.0496266138,
+        "Recursive1": 0.9423193687,
+        "Recursive2": 0.9897874342,
+        "Recursive3": 0.7769283528,
+        "Recursive4": 0.4944119716
+    },
+    {
+        "original": 0.0427814755,
+        "Recursive0": 0.0165600171,
+        "Recursive1": 0.1223896035,
+        "Recursive2": 0.2955117762,
+        "Recursive3": 1.9630295769,
+        "Recursive4": 0.6345976421
+    },
+    {
+        "original": 0.0891660024,
+        "Recursive0": 1.8768269108,
+        "Recursive1": 1.5322127332,
+        "Recursive2": 1.2322960075,
+        "Recursive3": 1.0115495298,
+        "Recursive4": 0.870185551
+    },
+    {
+        "original": 0.4762130758,
+        "Recursive0": 1.4147817792,
+        "Recursive1": 0.6681745112,
+        "Recursive2": 0.6465321301,
+        "Recursive3": 0.4642195201,
+        "Recursive4": 0.072455759
+    },
+    {
+        "original": 0.087548794,
+        "Recursive0": 0.5768864396,
+        "Recursive1": 0.1472854951,
+        "Recursive2": 0.3607242168,
+        "Recursive3": 0.4009390279,
+        "Recursive4": 0.1541266783
+    },
+    {
+        "original": 0.2653743282,
+        "Recursive0": 0.0811685421,
+        "Recursive1": 0.2772437399,
+        "Recursive2": 0.0328778468,
+        "Recursive3": 0.0235408593,
+        "Recursive4": 0.2364169159
+    },
+    {
+        "original": 0.023284315,
+        "Recursive0": 1.448208619,
+        "Recursive1": 0.6616050407,
+        "Recursive2": 0.5553011931,
+        "Recursive3": 0.4170993423,
+        "Recursive4": 0.2420773785
+    },
+    {
+        "original": 0.1314465441,
+        "Recursive0": 2.3353103704,
+        "Recursive1": 1.4264088846,
+        "Recursive2": 0.7212889218,
+        "Recursive3": 0.7945513295,
+        "Recursive4": 0.9142356226
+    },
+    {
+        "original": 0.1267968909,
+        "Recursive0": 2.1985421574,
+        "Recursive1": 2.1371080359,
+        "Recursive2": 2.1371080359,
+        "Recursive3": 1.945557234,
+        "Recursive4": 2.0825375157
+    },
+    {
+        "original": 0.0858171105,
+        "Recursive0": 1.3155985671,
+        "Recursive1": 1.5211946608,
+        "Recursive2": 0.6345976421,
+        "Recursive3": 0.4578858499,
+        "Recursive4": 0.4944119716
+    },
+    {
+        "original": 0.0076874206,
+        "Recursive0": 1.3295750861,
+        "Recursive1": 0.6159229773,
+        "Recursive2": 0.5297947771,
+        "Recursive3": 0.6081015881,
+        "Recursive4": 0.2131547525
+    },
+    {
+        "original": 0.1029802618,
+        "Recursive0": 1.1521866503,
+        "Recursive1": 0.8808179889,
+        "Recursive2": 0.9163800315,
+        "Recursive3": 0.6588060979,
+        "Recursive4": 0.5507168573
+    },
+    {
+        "original": 0.3058337792,
+        "Recursive0": 0.375989473,
+        "Recursive1": 0.8772640186,
+        "Recursive2": 0.188604861,
+        "Recursive3": 0.2590382003,
+        "Recursive4": 0.120271618
+    },
+    {
+        "original": 0.0393425545,
+        "Recursive0": 2.0256768413,
+        "Recursive1": 1.2462068221,
+        "Recursive2": 0.8318084009,
+        "Recursive3": 1.111086466,
+        "Recursive4": 0.6789661022
+    },
+    {
+        "original": 0.0656176526,
+        "Recursive0": 0.6345976421,
+        "Recursive1": 0.6073893989,
+        "Recursive2": 1.2750353894,
+        "Recursive3": 0.4526272115,
+        "Recursive4": 0.8024846607
+    },
+    {
+        "original": 0.2322832168,
+        "Recursive0": 0.2289206941,
+        "Recursive1": 0.4526272115,
+        "Recursive2": 0.341774583,
+        "Recursive3": 0.6345976421,
+        "Recursive4": 0.3242790822
+    },
+    {
+        "original": 0.0012318312,
+        "Recursive0": 0.749328445,
+        "Recursive1": 0.5890112008,
+        "Recursive2": 0.188604861,
+        "Recursive3": 0.3524147773,
+        "Recursive4": 0.3402632118
+    },
+    {
+        "original": 0.1314465441,
+        "Recursive0": 0.2462459065,
+        "Recursive1": 0.0209341886,
+        "Recursive2": 0.0061188033,
+        "Recursive3": 0.000927418,
+        "Recursive4": 0.0509800406
+    },
+    {
+        "original": 0.5381782793,
+        "Recursive0": 0.2116683417,
+        "Recursive1": 0.4066077573,
+        "Recursive2": 0.5354853528,
+        "Recursive3": 0.4066077573,
+        "Recursive4": 1.176817787
+    },
+    {
+        "original": 0.0676705944,
+        "Recursive0": 0.0292282683,
+        "Recursive1": 0.2407963969,
+        "Recursive2": 0.3035622333,
+        "Recursive3": 1.5542563736,
+        "Recursive4": 1.7528440337
+    },
+    {
+        "original": 0.000537975,
+        "Recursive0": 0.4666285394,
+        "Recursive1": 0.516205334,
+        "Recursive2": 0.8439889488,
+        "Recursive3": 0.432615837,
+        "Recursive4": 0.6345976421
+    }
+]

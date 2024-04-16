@@ -1,0 +1,902 @@
+[
+    {
+        "original": "0.671",
+        "watermarked": "8.85",
+        "attacked0": "3.7",
+        "attacked1": "5.39",
+        "attacked2": "2.96",
+        "attacked3": "2.89",
+        "attacked4": "1.87"
+    },
+    {
+        "original": "0.238",
+        "watermarked": "8.96",
+        "attacked0": "4.38",
+        "attacked1": "2.1",
+        "attacked2": "0.754",
+        "attacked3": "0.606",
+        "attacked4": "0.635"
+    },
+    {
+        "original": "2.38",
+        "watermarked": "8.63",
+        "attacked0": "2.22",
+        "attacked1": "1.76",
+        "attacked2": "0.689",
+        "attacked3": "0.396",
+        "attacked4": "-0.149"
+    },
+    {
+        "original": "1.39",
+        "watermarked": "7.55",
+        "attacked0": "3.88",
+        "attacked1": "2.4",
+        "attacked2": "1.41",
+        "attacked3": "2.32",
+        "attacked4": "0.291"
+    },
+    {
+        "original": "-0.479",
+        "watermarked": "5.87",
+        "attacked0": "2.65",
+        "attacked1": "3.23",
+        "attacked2": "2.17",
+        "attacked3": "0.748",
+        "attacked4": "-1.56"
+    },
+    {
+        "original": "-1.74",
+        "watermarked": "7.79",
+        "attacked0": "3.89",
+        "attacked1": "1.24",
+        "attacked2": "0.318",
+        "attacked3": "0.181",
+        "attacked4": "0.296"
+    },
+    {
+        "original": "0.181",
+        "watermarked": "6.7",
+        "attacked0": "-0.716",
+        "attacked1": "-0.852",
+        "attacked2": "-1.8",
+        "attacked3": "-1.68",
+        "attacked4": "-0.933"
+    },
+    {
+        "original": "-2.27",
+        "watermarked": "7.55",
+        "attacked0": "2.32",
+        "attacked1": "0.707",
+        "attacked2": "0.395",
+        "attacked3": "0.129",
+        "attacked4": "-0.613"
+    },
+    {
+        "original": "1.57",
+        "watermarked": "9.68",
+        "attacked0": "5.77",
+        "attacked1": "1.68",
+        "attacked2": "0.998",
+        "attacked3": "1.61",
+        "attacked4": "1.1"
+    },
+    {
+        "original": "-0.821",
+        "watermarked": "3.79",
+        "attacked0": "0.772",
+        "attacked1": "0.167",
+        "attacked2": "-0.201",
+        "attacked3": "-1.87",
+        "attacked4": "-1.58"
+    },
+    {
+        "original": "-0.86",
+        "watermarked": "5.2",
+        "attacked0": "-0.544",
+        "attacked1": "0.468",
+        "attacked2": "-0.17",
+        "attacked3": "0.177",
+        "attacked4": "0.291"
+    },
+    {
+        "original": "-1.1",
+        "watermarked": "6.68",
+        "attacked0": "0.56",
+        "attacked1": "-0.234",
+        "attacked2": "-1.05",
+        "attacked3": "-0.407",
+        "attacked4": "-0.194"
+    },
+    {
+        "original": "1.4",
+        "watermarked": "7.38",
+        "attacked0": "3.03",
+        "attacked1": "0.99",
+        "attacked2": "-0.673",
+        "attacked3": "-1.38",
+        "attacked4": "-1.94"
+    },
+    {
+        "original": "1.49",
+        "watermarked": "5.08",
+        "attacked0": "2.17",
+        "attacked1": "2.04",
+        "attacked2": "2.92",
+        "attacked3": "2.57",
+        "attacked4": "1.09"
+    },
+    {
+        "original": "-0.532",
+        "watermarked": "4.43",
+        "attacked0": "0.67",
+        "attacked1": "2.19",
+        "attacked2": "1.4",
+        "attacked3": "0.99",
+        "attacked4": "-0.302"
+    },
+    {
+        "original": "3.54",
+        "watermarked": "9.34",
+        "attacked0": "2.86",
+        "attacked1": "1.56",
+        "attacked2": "1.22",
+        "attacked3": "1.28",
+        "attacked4": "1.6"
+    },
+    {
+        "original": "0.401",
+        "watermarked": "6.07",
+        "attacked0": "2.9",
+        "attacked1": "2.76",
+        "attacked2": "2.94",
+        "attacked3": "1.87",
+        "attacked4": "0.567"
+    },
+    {
+        "original": "1.42",
+        "watermarked": "5",
+        "attacked0": "4.5",
+        "attacked1": "3.48",
+        "attacked2": "2.83",
+        "attacked3": "2.76",
+        "attacked4": "2.59"
+    },
+    {
+        "original": "0.245",
+        "watermarked": "7.96",
+        "attacked0": "4.05",
+        "attacked1": "1.48",
+        "attacked2": "2.11",
+        "attacked3": "1.81",
+        "attacked4": "0.688"
+    },
+    {
+        "original": "1.32",
+        "watermarked": "9.43",
+        "attacked0": "3.06",
+        "attacked1": "1.94",
+        "attacked2": "0.512",
+        "attacked3": "1.09",
+        "attacked4": "-0.16"
+    },
+    {
+        "original": "-0.955",
+        "watermarked": "8.17",
+        "attacked0": "3.09",
+        "attacked1": "1.95",
+        "attacked2": "1.74",
+        "attacked3": "-0.912",
+        "attacked4": "0.352"
+    },
+    {
+        "original": "0.91",
+        "watermarked": "7.96",
+        "attacked0": "4.4",
+        "attacked1": "4.23",
+        "attacked2": "2.04",
+        "attacked3": "1.1",
+        "attacked4": "1.17"
+    },
+    {
+        "original": "2.24",
+        "watermarked": "8.46",
+        "attacked0": "3.49",
+        "attacked1": "3.43",
+        "attacked2": "1.74",
+        "attacked3": "1.09",
+        "attacked4": "1.71"
+    },
+    {
+        "original": "1.58",
+        "watermarked": "7.71",
+        "attacked0": "4.41",
+        "attacked1": "2.43",
+        "attacked2": "1.25",
+        "attacked3": "1.52",
+        "attacked4": "0.168"
+    },
+    {
+        "original": "0.927",
+        "watermarked": "7.3",
+        "attacked0": "1.72",
+        "attacked1": "1.21",
+        "attacked2": "0.918",
+        "attacked3": "1.52",
+        "attacked4": "0.331"
+    },
+    {
+        "original": "-0.679",
+        "watermarked": "5.78",
+        "attacked0": "3.35",
+        "attacked1": "1.95",
+        "attacked2": "0.779",
+        "attacked3": "0.291",
+        "attacked4": "-0.11"
+    },
+    {
+        "original": "0.515",
+        "watermarked": "6.58",
+        "attacked0": "2.88",
+        "attacked1": "1.59",
+        "attacked2": "0.952",
+        "attacked3": "0.444",
+        "attacked4": "-0.123"
+    },
+    {
+        "original": "0.0917",
+        "watermarked": "5.1",
+        "attacked0": "2.36",
+        "attacked1": "0.254",
+        "attacked2": "0.682",
+        "attacked3": "0.718",
+        "attacked4": "0.226"
+    },
+    {
+        "original": "-0.915",
+        "watermarked": "7.26",
+        "attacked0": "2.88",
+        "attacked1": "2.07",
+        "attacked2": "1.09",
+        "attacked3": "0.695",
+        "attacked4": "0.214"
+    },
+    {
+        "original": "0.616",
+        "watermarked": "7.1",
+        "attacked0": "1.45",
+        "attacked1": "-0.788",
+        "attacked2": "0.118",
+        "attacked3": "-0.0444",
+        "attacked4": "-0.976"
+    },
+    {
+        "original": "-0.467",
+        "watermarked": "1.88",
+        "attacked0": "-0.329",
+        "attacked1": "-0.547",
+        "attacked2": "-0.38",
+        "attacked3": "-0.976",
+        "attacked4": "-1.08"
+    },
+    {
+        "original": "1.13",
+        "watermarked": "6.51",
+        "attacked0": "3.27",
+        "attacked1": "2.03",
+        "attacked2": "1.44",
+        "attacked3": "1.21",
+        "attacked4": "-0.0399"
+    },
+    {
+        "original": "2.51",
+        "watermarked": "6.59",
+        "attacked0": "2.03",
+        "attacked1": "1.36",
+        "attacked2": "1.04",
+        "attacked3": "0.752",
+        "attacked4": "0.752"
+    },
+    {
+        "original": "0.44",
+        "watermarked": "5.34",
+        "attacked0": "2.8",
+        "attacked1": "1.71",
+        "attacked2": "0.801",
+        "attacked3": "-0.842",
+        "attacked4": "0.666"
+    },
+    {
+        "original": "0.0305",
+        "watermarked": "3.67",
+        "attacked0": "0.63",
+        "attacked1": "-0.37",
+        "attacked2": "-0.641",
+        "attacked3": "1.11",
+        "attacked4": "0.732"
+    },
+    {
+        "original": "-0.152",
+        "watermarked": "8.11",
+        "attacked0": "1.75",
+        "attacked1": "0.811",
+        "attacked2": "1.15",
+        "attacked3": "0.427",
+        "attacked4": "1.06"
+    },
+    {
+        "original": "2.34",
+        "watermarked": "6.89",
+        "attacked0": "6.01",
+        "attacked1": "2.72",
+        "attacked2": "2.19",
+        "attacked3": "2.75",
+        "attacked4": "0.912"
+    },
+    {
+        "original": "0.715",
+        "watermarked": "3.37",
+        "attacked0": "1.74",
+        "attacked1": "0.623",
+        "attacked2": "1.85",
+        "attacked3": "0.95",
+        "attacked4": "1.08"
+    },
+    {
+        "original": "0.222",
+        "watermarked": "1.21",
+        "attacked0": "1.26",
+        "attacked1": "0",
+        "attacked2": "1.1",
+        "attacked3": "-0.131",
+        "attacked4": "-0.134"
+    },
+    {
+        "original": "1.27",
+        "watermarked": "8.8",
+        "attacked0": "2.76",
+        "attacked1": "1.14",
+        "attacked2": "-0.772",
+        "attacked3": "0.467",
+        "attacked4": "-0.443"
+    },
+    {
+        "original": "0.181",
+        "watermarked": "7.54",
+        "attacked0": "5.36",
+        "attacked1": "0.541",
+        "attacked2": "-0.816",
+        "attacked3": "-3.19",
+        "attacked4": "-1.68"
+    },
+    {
+        "original": "-0.0952",
+        "watermarked": "7.14",
+        "attacked0": "2.09",
+        "attacked1": "-0.411",
+        "attacked2": "0.448",
+        "attacked3": "1.71",
+        "attacked4": "0.297"
+    },
+    {
+        "original": "2.07",
+        "watermarked": "6.59",
+        "attacked0": "2.48",
+        "attacked1": "2.43",
+        "attacked2": "2.27",
+        "attacked3": "-0.0399",
+        "attacked4": "1.04"
+    },
+    {
+        "original": "0.495",
+        "watermarked": "6.69",
+        "attacked0": "2.51",
+        "attacked1": "2.77",
+        "attacked2": "1.47",
+        "attacked3": "0.617",
+        "attacked4": "1.66"
+    },
+    {
+        "original": "-0.0594",
+        "watermarked": "6.98",
+        "attacked0": "3.62",
+        "attacked1": "2.38",
+        "attacked2": "2.35",
+        "attacked3": "2.2",
+        "attacked4": "0.998"
+    },
+    {
+        "original": "1.02",
+        "watermarked": "6.66",
+        "attacked0": "1.97",
+        "attacked1": "2.65",
+        "attacked2": "1.16",
+        "attacked3": "0.719",
+        "attacked4": "-0.792"
+    },
+    {
+        "original": "-1.44",
+        "watermarked": "5.91",
+        "attacked0": "1.98",
+        "attacked1": "0.221",
+        "attacked2": "0.507",
+        "attacked3": "-1.31",
+        "attacked4": "-2.49"
+    },
+    {
+        "original": "1.88",
+        "watermarked": "7.56",
+        "attacked0": "3.86",
+        "attacked1": "3.97",
+        "attacked2": "3.79",
+        "attacked3": "2.85",
+        "attacked4": "1.09"
+    },
+    {
+        "original": "0",
+        "watermarked": "4.92",
+        "attacked0": "0.466",
+        "attacked1": "0.48",
+        "attacked2": "0.653",
+        "attacked3": "-0.571",
+        "attacked4": "-0.448"
+    },
+    {
+        "original": "1.35",
+        "watermarked": "7.75",
+        "attacked0": "4.41",
+        "attacked1": "2.53",
+        "attacked2": "2.51",
+        "attacked3": "1.5",
+        "attacked4": "1.17"
+    },
+    {
+        "original": "-0.309",
+        "watermarked": "5.57",
+        "attacked0": "2.31",
+        "attacked1": "2.78",
+        "attacked2": "1.14",
+        "attacked3": "1.77",
+        "attacked4": "1.52"
+    },
+    {
+        "original": "-0.124",
+        "watermarked": "7.68",
+        "attacked0": "0.958",
+        "attacked1": "-0.429",
+        "attacked2": "-1.32",
+        "attacked3": "0.168",
+        "attacked4": "-1"
+    },
+    {
+        "original": "-0.107",
+        "watermarked": "5.95",
+        "attacked0": "1.46",
+        "attacked1": "0.946",
+        "attacked2": "0.567",
+        "attacked3": "0.651",
+        "attacked4": "2.31"
+    },
+    {
+        "original": "-0.273",
+        "watermarked": "8.36",
+        "attacked0": "2.29",
+        "attacked1": "2.38",
+        "attacked2": "0.114",
+        "attacked3": "0",
+        "attacked4": "-0.864"
+    },
+    {
+        "original": "-0.921",
+        "watermarked": "7.02",
+        "attacked0": "2.18",
+        "attacked1": "0.558",
+        "attacked2": "-0.12",
+        "attacked3": "-0.0407",
+        "attacked4": "-0.552"
+    },
+    {
+        "original": "1.84",
+        "watermarked": "6",
+        "attacked0": "2.67",
+        "attacked1": "1.61",
+        "attacked2": "1.56",
+        "attacked3": "2.08",
+        "attacked4": "0.866"
+    },
+    {
+        "original": "0.852",
+        "watermarked": "5.39",
+        "attacked0": "1.71",
+        "attacked1": "1.59",
+        "attacked2": "0.143",
+        "attacked3": "1.48",
+        "attacked4": "1.89"
+    },
+    {
+        "original": "0.33",
+        "watermarked": "6.89",
+        "attacked0": "4.52",
+        "attacked1": "1.63",
+        "attacked2": "0.563",
+        "attacked3": "1.09",
+        "attacked4": "0.361"
+    },
+    {
+        "original": "1.45",
+        "watermarked": "7.66",
+        "attacked0": "2.74",
+        "attacked1": "1.05",
+        "attacked2": "1.06",
+        "attacked3": "1.44",
+        "attacked4": "-0.189"
+    },
+    {
+        "original": "1.9",
+        "watermarked": "9.32",
+        "attacked0": "2.11",
+        "attacked1": "0.958",
+        "attacked2": "1.39",
+        "attacked3": "-0.0403",
+        "attacked4": "-0.244"
+    },
+    {
+        "original": "1.72",
+        "watermarked": "7.59",
+        "attacked0": "3.6",
+        "attacked1": "2.92",
+        "attacked2": "1.78",
+        "attacked3": "2.16",
+        "attacked4": "1.4"
+    },
+    {
+        "original": "0.577",
+        "watermarked": "8.11",
+        "attacked0": "3.41",
+        "attacked1": "1.72",
+        "attacked2": "2.14",
+        "attacked3": "1.19",
+        "attacked4": "0.77"
+    },
+    {
+        "original": "2.11",
+        "watermarked": "7.63",
+        "attacked0": "1.69",
+        "attacked1": "1.28",
+        "attacked2": "1.85",
+        "attacked3": "0.903",
+        "attacked4": "0.356"
+    },
+    {
+        "original": "0.816",
+        "watermarked": "7.95",
+        "attacked0": "3.58",
+        "attacked1": "2",
+        "attacked2": "1.01",
+        "attacked3": "-0.137",
+        "attacked4": "-0.632"
+    },
+    {
+        "original": "2.99",
+        "watermarked": "7.22",
+        "attacked0": "2.07",
+        "attacked1": "0.544",
+        "attacked2": "0.387",
+        "attacked3": "0.28",
+        "attacked4": "0.241"
+    },
+    {
+        "original": "-0.369",
+        "watermarked": "4.48",
+        "attacked0": "0.163",
+        "attacked1": "-1.09",
+        "attacked2": "-1.86",
+        "attacked3": "-0.73",
+        "attacked4": "-0.577"
+    },
+    {
+        "original": "2.36",
+        "watermarked": "7.38",
+        "attacked0": "2.62",
+        "attacked1": "2.22",
+        "attacked2": "0.577",
+        "attacked3": "0.751",
+        "attacked4": "0.402"
+    },
+    {
+        "original": "0.532",
+        "watermarked": "5.49",
+        "attacked0": "1.03",
+        "attacked1": "0.532",
+        "attacked2": "0.852",
+        "attacked3": "0",
+        "attacked4": "0"
+    },
+    {
+        "original": "0.754",
+        "watermarked": "7.02",
+        "attacked0": "2.91",
+        "attacked1": "2.23",
+        "attacked2": "2.42",
+        "attacked3": "2.66",
+        "attacked4": "2.47"
+    },
+    {
+        "original": "-0.0306",
+        "watermarked": "6.45",
+        "attacked0": "2.28",
+        "attacked1": "1.34",
+        "attacked2": "1.38",
+        "attacked3": "0.782",
+        "attacked4": "0.63"
+    },
+    {
+        "original": "-0.307",
+        "watermarked": "8.04",
+        "attacked0": "3.32",
+        "attacked1": "2.84",
+        "attacked2": "1.86",
+        "attacked3": "1.91",
+        "attacked4": "2.14"
+    },
+    {
+        "original": "0.456",
+        "watermarked": "7.99",
+        "attacked0": "1.67",
+        "attacked1": "-0.961",
+        "attacked2": "0.0362",
+        "attacked3": "-1.02",
+        "attacked4": "-2.44"
+    },
+    {
+        "original": "0.499",
+        "watermarked": "9.19",
+        "attacked0": "5.61",
+        "attacked1": "3.29",
+        "attacked2": "4.13",
+        "attacked3": "2.23",
+        "attacked4": "2.36"
+    },
+    {
+        "original": "0.612",
+        "watermarked": "6.49",
+        "attacked0": "2.38",
+        "attacked1": "1.57",
+        "attacked2": "2.24",
+        "attacked3": "2.19",
+        "attacked4": "1.87"
+    },
+    {
+        "original": "0.839",
+        "watermarked": "9.79",
+        "attacked0": "5.29",
+        "attacked1": "3.41",
+        "attacked2": "4.36",
+        "attacked3": "3.41",
+        "attacked4": "2.36"
+    },
+    {
+        "original": "1.3",
+        "watermarked": "6.3",
+        "attacked0": "2.49",
+        "attacked1": "-0.699",
+        "attacked2": "-0.0429",
+        "attacked3": "0.574",
+        "attacked4": "0.283"
+    },
+    {
+        "original": "1.98",
+        "watermarked": "8.67",
+        "attacked0": "2.59",
+        "attacked1": "1.48",
+        "attacked2": "2.11",
+        "attacked3": "1.28",
+        "attacked4": "1.06"
+    },
+    {
+        "original": "-0.687",
+        "watermarked": "8.55",
+        "attacked0": "3.55",
+        "attacked1": "2.54",
+        "attacked2": "0.738",
+        "attacked3": "-1.5",
+        "attacked4": "-0.749"
+    },
+    {
+        "original": "2.04",
+        "watermarked": "8.92",
+        "attacked0": "4.64",
+        "attacked1": "3.19",
+        "attacked2": "2.85",
+        "attacked3": "2.31",
+        "attacked4": "2.01"
+    },
+    {
+        "original": "0.201",
+        "watermarked": "5.95",
+        "attacked0": "2.01",
+        "attacked1": "0",
+        "attacked2": "0.16",
+        "attacked3": "0",
+        "attacked4": "-0.0886"
+    },
+    {
+        "original": "1.3",
+        "watermarked": "5.69",
+        "attacked0": "1.49",
+        "attacked1": "2.13",
+        "attacked2": "0.963",
+        "attacked3": "0.246",
+        "attacked4": "-0.893"
+    },
+    {
+        "original": "1.29",
+        "watermarked": "7.14",
+        "attacked0": "4.11",
+        "attacked1": "3.82",
+        "attacked2": "3.58",
+        "attacked3": "3.43",
+        "attacked4": "2.29"
+    },
+    {
+        "original": "1.44",
+        "watermarked": "9.01",
+        "attacked0": "6.12",
+        "attacked1": "3.17",
+        "attacked2": "2.97",
+        "attacked3": "2.84",
+        "attacked4": "1.79"
+    },
+    {
+        "original": "1.13",
+        "watermarked": "9.2",
+        "attacked0": "2.7",
+        "attacked1": "0.745",
+        "attacked2": "0.629",
+        "attacked3": "0.808",
+        "attacked4": "1.15"
+    },
+    {
+        "original": "1.01",
+        "watermarked": "9.22",
+        "attacked0": "3.54",
+        "attacked1": "2.7",
+        "attacked2": "0.766",
+        "attacked3": "0.511",
+        "attacked4": "0.0452"
+    },
+    {
+        "original": "1.54",
+        "watermarked": "6.86",
+        "attacked0": "2.28",
+        "attacked1": "2.63",
+        "attacked2": "1.97",
+        "attacked3": "1.44",
+        "attacked4": "1.24"
+    },
+    {
+        "original": "-0.668",
+        "watermarked": "8.95",
+        "attacked0": "3.4",
+        "attacked1": "1.5",
+        "attacked2": "0.689",
+        "attacked3": "0.459",
+        "attacked4": "0.365"
+    },
+    {
+        "original": "0.967",
+        "watermarked": "7.88",
+        "attacked0": "1.44",
+        "attacked1": "0.311",
+        "attacked2": "0",
+        "attacked3": "-0.266",
+        "attacked4": "-1.12"
+    },
+    {
+        "original": "-1.01",
+        "watermarked": "3.6",
+        "attacked0": "0.0409",
+        "attacked1": "0.0907",
+        "attacked2": "-0.497",
+        "attacked3": "-0.272",
+        "attacked4": "-0.317"
+    },
+    {
+        "original": "0.273",
+        "watermarked": "4.52",
+        "attacked0": "2.49",
+        "attacked1": "1.44",
+        "attacked2": "1.5",
+        "attacked3": "0.689",
+        "attacked4": "0.0442"
+    },
+    {
+        "original": "1.15",
+        "watermarked": "5.24",
+        "attacked0": "3.7",
+        "attacked1": "2.46",
+        "attacked2": "3.51",
+        "attacked3": "1.61",
+        "attacked4": "1.59"
+    },
+    {
+        "original": "1.83",
+        "watermarked": "9.61",
+        "attacked0": "3.83",
+        "attacked1": "3.34",
+        "attacked2": "2.88",
+        "attacked3": "2.57",
+        "attacked4": "2.21"
+    },
+    {
+        "original": "1.67",
+        "watermarked": "7.99",
+        "attacked0": "2.59",
+        "attacked1": "2.59",
+        "attacked2": "2.19",
+        "attacked3": "1.86",
+        "attacked4": "1.01"
+    },
+    {
+        "original": "1.98",
+        "watermarked": "7.87",
+        "attacked0": "2.9",
+        "attacked1": "1.09",
+        "attacked2": "0.0387",
+        "attacked3": "-0.868",
+        "attacked4": "-0.839"
+    },
+    {
+        "original": "2.24",
+        "watermarked": "6.97",
+        "attacked0": "2.12",
+        "attacked1": "0.156",
+        "attacked2": "-0.206",
+        "attacked3": "0.516",
+        "attacked4": "0.87"
+    },
+    {
+        "original": "-0.25",
+        "watermarked": "9.39",
+        "attacked0": "2.62",
+        "attacked1": "1.22",
+        "attacked2": "-0.38",
+        "attacked3": "0.709",
+        "attacked4": "0.726"
+    },
+    {
+        "original": "0.877",
+        "watermarked": "8.5",
+        "attacked0": "3.14",
+        "attacked1": "1.61",
+        "attacked2": "0.153",
+        "attacked3": "-0.159",
+        "attacked4": "0"
+    },
+    {
+        "original": "3.08",
+        "watermarked": "4.28",
+        "attacked0": "-0.647",
+        "attacked1": "0.489",
+        "attacked2": "0.74",
+        "attacked3": "-0.279",
+        "attacked4": "0.586"
+    },
+    {
+        "original": "-0.801",
+        "watermarked": "1.75",
+        "attacked0": "-0.632",
+        "attacked1": "0.265",
+        "attacked2": "0.94",
+        "attacked3": "0.765",
+        "attacked4": "1.06"
+    },
+    {
+        "original": "-1.22",
+        "watermarked": "5.77",
+        "attacked0": "0.746",
+        "attacked1": "-0.312",
+        "attacked2": "0.433",
+        "attacked3": "0.325",
+        "attacked4": "0.478"
+    }
+]

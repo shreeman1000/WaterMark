@@ -1,0 +1,502 @@
+[
+    {
+        "original": 6.0651213033,
+        "watermarked": 98.5557728514,
+        "attacked0": 25.1781239934
+    },
+    {
+        "original": 0.06435682,
+        "watermarked": 99.999603204,
+        "attacked0": 99.9992484103
+    },
+    {
+        "original": 2.7945055529,
+        "watermarked": 93.2014525995,
+        "attacked0": 23.267876161
+    },
+    {
+        "original": 16.3749018675,
+        "watermarked": 97.9751893442,
+        "attacked0": 69.9890916015
+    },
+    {
+        "original": 0.0815584595,
+        "watermarked": 76.353609397,
+        "attacked0": 0.0
+    },
+    {
+        "original": 62.4263268116,
+        "watermarked": 99.999709393,
+        "attacked0": 5.5865764761
+    },
+    {
+        "original": 32.1125819321,
+        "watermarked": 99.904501382,
+        "attacked0": 1.6467381588
+    },
+    {
+        "original": 3.7943838193,
+        "watermarked": 64.7617425794,
+        "attacked0": 0.5972051421
+    },
+    {
+        "original": 0.4428835861,
+        "watermarked": 99.6289793184,
+        "attacked0": 1.7389717233
+    },
+    {
+        "original": 1.366252545,
+        "watermarked": 99.9122320856,
+        "attacked0": 0.2404958576
+    },
+    {
+        "original": 20.1786612912,
+        "watermarked": 99.7882353822,
+        "attacked0": 0.0753066677
+    },
+    {
+        "original": 0.7127537521,
+        "watermarked": 95.5368466035,
+        "attacked0": 0.2102610533
+    },
+    {
+        "original": 1.8765118214,
+        "watermarked": 90.6644919857,
+        "attacked0": 52.7371074717
+    },
+    {
+        "original": 15.5362281555,
+        "watermarked": 99.9912029742,
+        "attacked0": 37.5525000874
+    },
+    {
+        "original": 1.5668107062,
+        "watermarked": 97.8440167103,
+        "attacked0": 15.8140367977
+    },
+    {
+        "original": 5.4786856958,
+        "watermarked": 99.5608457852,
+        "attacked0": 86.544068458
+    },
+    {
+        "original": 11.3245939254,
+        "watermarked": 73.5331717219,
+        "attacked0": 93.2014525995
+    },
+    {
+        "original": 5.3363269386,
+        "watermarked": 97.1152082841,
+        "attacked0": 10.5746157412
+    },
+    {
+        "original": 56.5962540792,
+        "watermarked": 99.9934495653,
+        "attacked0": 76.1263414557
+    },
+    {
+        "original": 26.7977251604,
+        "watermarked": 99.5357258165,
+        "attacked0": 43.3635475702
+    },
+    {
+        "original": 45.7414514695,
+        "watermarked": 91.5470752021,
+        "attacked0": 29.1012878214
+    },
+    {
+        "original": 0.3433271963,
+        "watermarked": 99.4719705483,
+        "attacked0": 68.6588901081
+    },
+    {
+        "original": 23.583523634,
+        "watermarked": 99.8157850318,
+        "attacked0": 99.9499221234
+    },
+    {
+        "original": 29.4333820831,
+        "watermarked": 95.599270409,
+        "attacked0": 44.0444828713
+    },
+    {
+        "original": 4.2440266976,
+        "watermarked": 97.0273985067,
+        "attacked0": 21.0918933314
+    },
+    {
+        "original": 0.157127239,
+        "watermarked": 99.9815516017,
+        "attacked0": 99.9561385812
+    },
+    {
+        "original": 36.868970463,
+        "watermarked": 78.5482192429,
+        "attacked0": 2.2015988089
+    },
+    {
+        "original": 9.3192909116,
+        "watermarked": 99.9994750954,
+        "attacked0": 80.0000106818
+    },
+    {
+        "original": 16.0936025694,
+        "watermarked": 99.8494500515,
+        "attacked0": 96.8448845003
+    },
+    {
+        "original": 0.0149015219,
+        "watermarked": 96.1841344708,
+        "attacked0": 83.0595999808
+    },
+    {
+        "original": 7.6263621975,
+        "watermarked": 98.158896355,
+        "attacked0": 77.9047482203
+    },
+    {
+        "original": 0.1753144691,
+        "watermarked": 99.9932854286,
+        "attacked0": 79.7968591822
+    },
+    {
+        "original": 0.0100264179,
+        "watermarked": 99.2438758263,
+        "attacked0": 53.0631897455
+    },
+    {
+        "original": 24.857104798,
+        "watermarked": 99.3894859116,
+        "attacked0": 0.5849910073
+    },
+    {
+        "original": 9.9154541392,
+        "watermarked": 99.9867457634,
+        "attacked0": 18.6848438291
+    },
+    {
+        "original": 31.1035688115,
+        "watermarked": 97.9430658104,
+        "attacked0": 0.9201284951
+    },
+    {
+        "original": 2.8338087425,
+        "watermarked": 99.9947650271,
+        "attacked0": 44.3845297882
+    },
+    {
+        "original": 9.0494105129,
+        "watermarked": 35.5040246098,
+        "attacked0": 40.6315656469
+    },
+    {
+        "original": 25.8231376558,
+        "watermarked": 99.7320581358,
+        "attacked0": 20.7861280943
+    },
+    {
+        "original": 0.0759645937,
+        "watermarked": 64.1850230982,
+        "attacked0": 0.8096046917
+    },
+    {
+        "original": 9.1839306278,
+        "watermarked": 95.0787587989,
+        "attacked0": 23.9002950178
+    },
+    {
+        "original": 89.833960872,
+        "watermarked": 83.0595999808,
+        "attacked0": 1.5081392419
+    },
+    {
+        "original": 4.551335535,
+        "watermarked": 99.9390382213,
+        "attacked0": 2.2838257702
+    },
+    {
+        "original": 0.4535308616,
+        "watermarked": 94.4328127701,
+        "attacked0": 19.8770088699
+    },
+    {
+        "original": 41.9988757919,
+        "watermarked": 99.5442403576,
+        "attacked0": 56.9121723102
+    },
+    {
+        "original": 1.8336498588,
+        "watermarked": 93.2014525995,
+        "attacked0": 97.2841604085
+    },
+    {
+        "original": 6.8952194016,
+        "watermarked": 97.5966342492,
+        "attacked0": 37.2106660874
+    },
+    {
+        "original": 2.0191303598,
+        "watermarked": 99.8157850318,
+        "attacked0": 8.1530144876
+    },
+    {
+        "original": 1.4888251737,
+        "watermarked": 99.9977490618,
+        "attacked0": 36.1860847072
+    },
+    {
+        "original": 64.7617425794,
+        "watermarked": 99.996508011,
+        "attacked0": 26.1470826173
+    },
+    {
+        "original": 2.7038202419,
+        "watermarked": 94.9408925551,
+        "attacked0": 89.7107393381
+    },
+    {
+        "original": 31.4393796209,
+        "watermarked": 99.1599689445,
+        "attacked0": 2.7295841497
+    },
+    {
+        "original": 55.9616572876,
+        "watermarked": 99.9377013405,
+        "attacked0": 0.2102610533
+    },
+    {
+        "original": 11.1047073475,
+        "watermarked": 99.2029116888,
+        "attacked0": 8.7388218471
+    },
+    {
+        "original": 56.9121723102,
+        "watermarked": 99.7521440397,
+        "attacked0": 7.2974001911
+    },
+    {
+        "original": 12.0700036548,
+        "watermarked": 99.2571045434,
+        "attacked0": 22.9533773773
+    },
+    {
+        "original": 12.9891384849,
+        "watermarked": 99.9290888014,
+        "attacked0": 2.6019364709
+    },
+    {
+        "original": 58.7875327002,
+        "watermarked": 99.9693699505,
+        "attacked0": 83.2390154537
+    },
+    {
+        "original": 5.3717559895,
+        "watermarked": 93.2899223717,
+        "attacked0": 31.7757253224
+    },
+    {
+        "original": 86.2373781523,
+        "watermarked": 99.9887917792,
+        "attacked0": 47.428807406
+    },
+    {
+        "original": 47.428807406,
+        "watermarked": 99.92597991,
+        "attacked0": 99.9982226113
+    },
+    {
+        "original": 0.1622222347,
+        "watermarked": 93.021664771,
+        "attacked0": 0.4589015997
+    },
+    {
+        "original": 39.6051603945,
+        "watermarked": 99.6289793184,
+        "attacked0": 73.5331717219
+    },
+    {
+        "original": 5.7136589819,
+        "watermarked": 99.9992484103,
+        "attacked0": 99.9520803697
+    },
+    {
+        "original": 51.425430887,
+        "watermarked": 97.7757021978,
+        "attacked0": 1.1031168392
+    },
+    {
+        "original": 0.0108412062,
+        "watermarked": 98.4071097774,
+        "attacked0": 8.4545826423
+    },
+    {
+        "original": 8.5634279288,
+        "watermarked": 99.9004033349,
+        "attacked0": 44.3845297882
+    },
+    {
+        "original": 37.2106660874,
+        "watermarked": 99.92597991,
+        "attacked0": 80.6009957608
+    },
+    {
+        "original": 15.2602001559,
+        "watermarked": 81.3826098247,
+        "attacked0": 24.5371103838
+    },
+    {
+        "original": 5.6590358321,
+        "watermarked": 99.0678197524,
+        "attacked0": 26.7977251604
+    },
+    {
+        "original": 13.275200501,
+        "watermarked": 98.0381265625,
+        "attacked0": 2.5893330309
+    },
+    {
+        "original": 14.3622342748,
+        "watermarked": 99.3894859116,
+        "attacked0": 0.6220085067
+    },
+    {
+        "original": 76.8038905392,
+        "watermarked": 99.9934495653,
+        "attacked0": 78.1206586591
+    },
+    {
+        "original": 11.844389363,
+        "watermarked": 98.6920609754,
+        "attacked0": 99.9227445555
+    },
+    {
+        "original": 0.6409390522,
+        "watermarked": 97.8774844371,
+        "attacked0": 0.0
+    },
+    {
+        "original": 18.390535713,
+        "watermarked": 99.7521440397,
+        "attacked0": 97.8100909739
+    },
+    {
+        "original": 20.1786612912,
+        "watermarked": 99.887109824,
+        "attacked0": 89.2061718413
+    },
+    {
+        "original": 10.1488508989,
+        "watermarked": 94.7280764908,
+        "attacked0": 85.4478294212
+    },
+    {
+        "original": 13.3274692974,
+        "watermarked": 93.2014525995,
+        "attacked0": 61.531387845
+    },
+    {
+        "original": 7.7304651863,
+        "watermarked": 48.4356276944,
+        "attacked0": 7.0348343508
+    },
+    {
+        "original": 4.4532112176,
+        "watermarked": 99.0014730628,
+        "attacked0": 99.9520803697
+    },
+    {
+        "original": 0.5669043704,
+        "watermarked": 96.6528694764,
+        "attacked0": 19.2779885521
+    },
+    {
+        "original": 2.8075774449,
+        "watermarked": 99.9664677095,
+        "attacked0": 0.0906811562
+    },
+    {
+        "original": 8.7168143226,
+        "watermarked": 98.8560263785,
+        "attacked0": 11.5462172459
+    },
+    {
+        "original": 0.9740912573,
+        "watermarked": 95.9004926164,
+        "attacked0": 28.7698980482
+    },
+    {
+        "original": 7.8351842806,
+        "watermarked": 94.507881722,
+        "attacked0": 60.0176657113
+    },
+    {
+        "original": 9.3192909116,
+        "watermarked": 99.5608457852,
+        "attacked0": 64.7617425794
+    },
+    {
+        "original": 20.7861280943,
+        "watermarked": 73.2890010571,
+        "attacked0": 7.1151707613
+    },
+    {
+        "original": 0.0,
+        "watermarked": 99.9403483124,
+        "attacked0": 0.1994448046
+    },
+    {
+        "original": 15.2602001559,
+        "watermarked": 88.5487308649,
+        "attacked0": 39.2629637264
+    },
+    {
+        "original": 16.3749018675,
+        "watermarked": 99.7472562616,
+        "attacked0": 28.4392372023
+    },
+    {
+        "original": 36.868970463,
+        "watermarked": 99.5357258165,
+        "attacked0": 94.5821108902
+    },
+    {
+        "original": 0.0096309567,
+        "watermarked": 78.5482192429,
+        "attacked0": 22.327924948
+    },
+    {
+        "original": 23.267876161,
+        "watermarked": 99.7882353822,
+        "attacked0": 53.7130408578
+    },
+    {
+        "original": 1.0376170587,
+        "watermarked": 10.6941598612,
+        "attacked0": 9.9154541392
+    },
+    {
+        "original": 0.4973754926,
+        "watermarked": 82.513088025,
+        "attacked0": 1.5081392419
+    },
+    {
+        "original": 0.0098672788,
+        "watermarked": 99.1452010217,
+        "attacked0": 65.3335894387
+    },
+    {
+        "original": 1.9417060702,
+        "watermarked": 90.6644919857,
+        "attacked0": 80.6009957608
+    },
+    {
+        "original": 0.3386798582,
+        "watermarked": 75.2031101361,
+        "attacked0": 19.5767764669
+    },
+    {
+        "original": 16.0936025694,
+        "watermarked": 99.1149662607,
+        "attacked0": 0.9049890493
+    }
+]

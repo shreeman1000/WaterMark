@@ -1,0 +1,502 @@
+[
+    {
+        "original": "0.627",
+        "watermarked": "5.16",
+        "attacked0": "1.35"
+    },
+    {
+        "original": "0.0636",
+        "watermarked": "8.84",
+        "attacked0": "8.61"
+    },
+    {
+        "original": "-0.422",
+        "watermarked": "4.11",
+        "attacked0": "1.29"
+    },
+    {
+        "original": "-1.06",
+        "watermarked": "4.95",
+        "attacked0": "2.75"
+    },
+    {
+        "original": "0.0716",
+        "watermarked": "3.01",
+        "attacked0": "0"
+    },
+    {
+        "original": "2.48",
+        "watermarked": "8.95",
+        "attacked0": "0.601"
+    },
+    {
+        "original": "1.56",
+        "watermarked": "6.61",
+        "attacked0": "0.323"
+    },
+    {
+        "original": "-0.493",
+        "watermarked": "2.56",
+        "attacked0": "-0.194"
+    },
+    {
+        "original": "-0.167",
+        "watermarked": "5.93",
+        "attacked0": "-0.332"
+    },
+    {
+        "original": "-0.294",
+        "watermarked": "6.65",
+        "attacked0": "0.123"
+    },
+    {
+        "original": "1.19",
+        "watermarked": "6.22",
+        "attacked0": "0.0688"
+    },
+    {
+        "original": "0.212",
+        "watermarked": "4.42",
+        "attacked0": "0.115"
+    },
+    {
+        "original": "-0.345",
+        "watermarked": "3.86",
+        "attacked0": "2.17"
+    },
+    {
+        "original": "1.03",
+        "watermarked": "7.66",
+        "attacked0": "1.72"
+    },
+    {
+        "original": "-0.315",
+        "watermarked": "4.91",
+        "attacked0": "-1.04"
+    },
+    {
+        "original": "-0.595",
+        "watermarked": "5.84",
+        "attacked0": "3.55"
+    },
+    {
+        "original": "-0.869",
+        "watermarked": "2.89",
+        "attacked0": "4.11"
+    },
+    {
+        "original": "-0.587",
+        "watermarked": "4.72",
+        "attacked0": "-0.838"
+    },
+    {
+        "original": "2.29",
+        "watermarked": "7.78",
+        "attacked0": "3"
+    },
+    {
+        "original": "1.4",
+        "watermarked": "5.81",
+        "attacked0": "1.89"
+    },
+    {
+        "original": "-1.96",
+        "watermarked": "3.94",
+        "attacked0": "1.47"
+    },
+    {
+        "original": "-0.147",
+        "watermarked": "5.74",
+        "attacked0": "2.7"
+    },
+    {
+        "original": "1.3",
+        "watermarked": "6.29",
+        "attacked0": "6.91"
+    },
+    {
+        "original": "-1.48",
+        "watermarked": "4.43",
+        "attacked0": "1.91"
+    },
+    {
+        "original": "0.522",
+        "watermarked": "4.7",
+        "attacked0": "1.22"
+    },
+    {
+        "original": "0.0994",
+        "watermarked": "7.35",
+        "attacked0": "6.97"
+    },
+    {
+        "original": "-1.7",
+        "watermarked": "3.11",
+        "attacked0": "-0.374"
+    },
+    {
+        "original": "0.784",
+        "watermarked": "8.74",
+        "attacked0": "3.18"
+    },
+    {
+        "original": "1.05",
+        "watermarked": "6.39",
+        "attacked0": "4.66"
+    },
+    {
+        "original": "0.0306",
+        "watermarked": "4.53",
+        "attacked0": "3.34"
+    },
+    {
+        "original": "0.706",
+        "watermarked": "5.01",
+        "attacked0": "3.08"
+    },
+    {
+        "original": "-0.105",
+        "watermarked": "7.77",
+        "attacked0": "3.17"
+    },
+    {
+        "original": "0.0251",
+        "watermarked": "5.54",
+        "attacked0": "2.18"
+    },
+    {
+        "original": "1.34",
+        "watermarked": "5.66",
+        "attacked0": "-0.192"
+    },
+    {
+        "original": "-0.81",
+        "watermarked": "7.49",
+        "attacked0": "1.14"
+    },
+    {
+        "original": "1.53",
+        "watermarked": "4.94",
+        "attacked0": "0.241"
+    },
+    {
+        "original": "0.425",
+        "watermarked": "7.87",
+        "attacked0": "1.92"
+    },
+    {
+        "original": "-0.772",
+        "watermarked": "1.66",
+        "attacked0": "1.81"
+    },
+    {
+        "original": "-1.37",
+        "watermarked": "6.1",
+        "attacked0": "1.21"
+    },
+    {
+        "original": "0.0691",
+        "watermarked": "2.54",
+        "attacked0": "0.226"
+    },
+    {
+        "original": "-0.778",
+        "watermarked": "4.35",
+        "attacked0": "1.31"
+    },
+    {
+        "original": "-3.79",
+        "watermarked": "3.34",
+        "attacked0": "-0.309"
+    },
+    {
+        "original": "0.541",
+        "watermarked": "6.82",
+        "attacked0": "0.381"
+    },
+    {
+        "original": "-0.169",
+        "watermarked": "4.26",
+        "attacked0": "1.18"
+    },
+    {
+        "original": "1.85",
+        "watermarked": "5.82",
+        "attacked0": "2.3"
+    },
+    {
+        "original": "0.341",
+        "watermarked": "4.11",
+        "attacked0": "4.76"
+    },
+    {
+        "original": "0.67",
+        "watermarked": "4.84",
+        "attacked0": "1.71"
+    },
+    {
+        "original": "0.358",
+        "watermarked": "6.29",
+        "attacked0": "0.731"
+    },
+    {
+        "original": "0.307",
+        "watermarked": "8.2",
+        "attacked0": "1.68"
+    },
+    {
+        "original": "2.56",
+        "watermarked": "8.03",
+        "attacked0": "1.38"
+    },
+    {
+        "original": "-0.415",
+        "watermarked": "4.33",
+        "attacked0": "3.78"
+    },
+    {
+        "original": "1.54",
+        "watermarked": "5.48",
+        "attacked0": "-0.417"
+    },
+    {
+        "original": "2.27",
+        "watermarked": "6.81",
+        "attacked0": "0.115"
+    },
+    {
+        "original": "0.86",
+        "watermarked": "5.51",
+        "attacked0": "0.758"
+    },
+    {
+        "original": "2.3",
+        "watermarked": "6.14",
+        "attacked0": "0.69"
+    },
+    {
+        "original": "0.899",
+        "watermarked": "5.55",
+        "attacked0": "1.28"
+    },
+    {
+        "original": "0.935",
+        "watermarked": "6.75",
+        "attacked0": "-0.407"
+    },
+    {
+        "original": "2.36",
+        "watermarked": "7.13",
+        "attacked0": "3.35"
+    },
+    {
+        "original": "-0.589",
+        "watermarked": "4.12",
+        "attacked0": "1.55"
+    },
+    {
+        "original": "3.53",
+        "watermarked": "7.56",
+        "attacked0": "2.01"
+    },
+    {
+        "original": "2.01",
+        "watermarked": "6.73",
+        "attacked0": "8.29"
+    },
+    {
+        "original": "0.101",
+        "watermarked": "4.09",
+        "attacked0": "0.17"
+    },
+    {
+        "original": "1.78",
+        "watermarked": "5.93",
+        "attacked0": "2.89"
+    },
+    {
+        "original": "-0.608",
+        "watermarked": "8.61",
+        "attacked0": "6.93"
+    },
+    {
+        "original": "-2.13",
+        "watermarked": "4.89",
+        "attacked0": "-0.264"
+    },
+    {
+        "original": "0.0261",
+        "watermarked": "5.1",
+        "attacked0": "-0.745"
+    },
+    {
+        "original": "0.75",
+        "watermarked": "6.59",
+        "attacked0": "1.92"
+    },
+    {
+        "original": "1.71",
+        "watermarked": "6.73",
+        "attacked0": "3.21"
+    },
+    {
+        "original": "-1.02",
+        "watermarked": "3.25",
+        "attacked0": "1.33"
+    },
+    {
+        "original": "0.605",
+        "watermarked": "5.42",
+        "attacked0": "1.4"
+    },
+    {
+        "original": "-0.946",
+        "watermarked": "4.97",
+        "attacked0": "0.406"
+    },
+    {
+        "original": "0.987",
+        "watermarked": "5.66",
+        "attacked0": "-0.198"
+    },
+    {
+        "original": "3.03",
+        "watermarked": "7.78",
+        "attacked0": "3.09"
+    },
+    {
+        "original": "-0.89",
+        "watermarked": "5.22",
+        "attacked0": "6.71"
+    },
+    {
+        "original": "-0.201",
+        "watermarked": "4.92",
+        "attacked0": "0"
+    },
+    {
+        "original": "1.13",
+        "watermarked": "6.14",
+        "attacked0": "4.9"
+    },
+    {
+        "original": "1.19",
+        "watermarked": "6.53",
+        "attacked0": "3.74"
+    },
+    {
+        "original": "-0.82",
+        "watermarked": "4.3",
+        "attacked0": "3.48"
+    },
+    {
+        "original": "-0.948",
+        "watermarked": "4.11",
+        "attacked0": "2.45"
+    },
+    {
+        "original": "-0.711",
+        "watermarked": "2.04",
+        "attacked0": "0.677"
+    },
+    {
+        "original": "-0.535",
+        "watermarked": "5.38",
+        "attacked0": "6.93"
+    },
+    {
+        "original": "-0.189",
+        "watermarked": "4.62",
+        "attacked0": "1.16"
+    },
+    {
+        "original": "0.423",
+        "watermarked": "7.09",
+        "attacked0": "0.0755"
+    },
+    {
+        "original": "-0.757",
+        "watermarked": "5.3",
+        "attacked0": "0.878"
+    },
+    {
+        "original": "0.248",
+        "watermarked": "4.48",
+        "attacked0": "1.46"
+    },
+    {
+        "original": "0.716",
+        "watermarked": "4.27",
+        "attacked0": "2.4"
+    },
+    {
+        "original": "0.784",
+        "watermarked": "5.84",
+        "attacked0": "2.56"
+    },
+    {
+        "original": "1.21",
+        "watermarked": "2.88",
+        "attacked0": "0.681"
+    },
+    {
+        "original": "0",
+        "watermarked": "6.83",
+        "attacked0": "0.112"
+    },
+    {
+        "original": "1.02",
+        "watermarked": "3.69",
+        "attacked0": "1.77"
+    },
+    {
+        "original": "1.06",
+        "watermarked": "6.13",
+        "attacked0": "1.45"
+    },
+    {
+        "original": "1.7",
+        "watermarked": "5.81",
+        "attacked0": "4.28"
+    },
+    {
+        "original": "-0.0246",
+        "watermarked": "3.11",
+        "attacked0": "1.26"
+    },
+    {
+        "original": "1.29",
+        "watermarked": "6.22",
+        "attacked0": "2.2"
+    },
+    {
+        "original": "0.256",
+        "watermarked": "0.843",
+        "attacked0": "0.81"
+    },
+    {
+        "original": "0.177",
+        "watermarked": "3.31",
+        "attacked0": "-0.309"
+    },
+    {
+        "original": "0.0249",
+        "watermarked": "5.47",
+        "attacked0": "2.58"
+    },
+    {
+        "original": "0.351",
+        "watermarked": "3.86",
+        "attacked0": "3.21"
+    },
+    {
+        "original": "0.146",
+        "watermarked": "2.96",
+        "attacked0": "-1.17"
+    },
+    {
+        "original": "1.05",
+        "watermarked": "5.45",
+        "attacked0": "-0.239"
+    }
+]

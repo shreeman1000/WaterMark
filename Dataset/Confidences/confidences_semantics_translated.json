@@ -1,0 +1,402 @@
+[
+    {
+        "original": 71.81,
+        "watermarked": 100.00,
+        "attacked": 77.72},
+    {
+        "original": 63.06,
+        "watermarked": 99.02,
+        "attacked": 50.00},
+    {
+        "original": 44.43,
+        "watermarked": 99.98,
+        "attacked": 20.27},
+    {
+        "original": 56.71,
+        "watermarked": 99.93,
+        "attacked": 84.83},
+    {
+        "original": 28.54,
+        "watermarked": 100.00,
+        "attacked": 42.57},
+    {
+        "original": 26.58,
+        "watermarked": 100.00,
+        "attacked": 92.56},
+    {
+        "original": 24.56,
+        "watermarked": 95.63,
+        "attacked": 62.61},
+    {
+        "original": 6.56,
+        "watermarked": 100.00,
+        "attacked": 54.27},
+    {
+        "original": 72.38,
+        "watermarked": 100.00,
+        "attacked": 98.07},
+    {
+        "original": 78.59,
+        "watermarked": 100.00,
+        "attacked": 81.71},
+    {
+        "original": 11.25,
+        "watermarked": 99.90,
+        "attacked": 95.47},
+    {
+        "original": 60.54,
+        "watermarked": 100.00,
+        "attacked": 98.06},
+    {
+        "original": 58.17,
+        "watermarked": 100.00,
+        "attacked": 77.10},
+    {
+        "original": 8.17,
+        "watermarked": 100.00,
+        "attacked": 83.27},
+    {
+        "original": 79.79,
+        "watermarked": 100.00,
+        "attacked": 99.82},
+    {
+        "original": 71.13,
+        "watermarked": 99.73,
+        "attacked": 57.37},
+    {
+        "original": 13.76,
+        "watermarked": 100.00,
+        "attacked": 97.92},
+    {
+        "original": 32.32,
+        "watermarked": 99.42,
+        "attacked": 63.91},
+    {
+        "original": 28.93,
+        "watermarked": 99.70,
+        "attacked": 50.00},
+    {
+        "original": 13.76,
+        "watermarked": 99.18,
+        "attacked": 90.22},
+    {
+        "original": 97.39,
+        "watermarked": 100.00,
+        "attacked": 99.05},
+    {
+        "original": 20.46,
+        "watermarked": 100.00,
+        "attacked": 46.00},
+    {
+        "original": 54.48,
+        "watermarked": 99.75,
+        "attacked": 93.22},
+    {
+        "original": 34.81,
+        "watermarked": 100.00,
+        "attacked": 93.10},
+    {
+        "original": 59.87,
+        "watermarked": 99.98,
+        "attacked": 78.46},
+    {
+        "original": 74.99,
+        "watermarked": 99.90,
+        "attacked": 83.65},
+    {
+        "original": 93.44,
+        "watermarked": 100.00,
+        "attacked": 99.99},
+    {
+        "original": 1.30,
+        "watermarked": 98.25,
+        "attacked": 88.92},
+    {
+        "original": 17.00,
+        "watermarked": 100.00,
+        "attacked": 58.35},
+    {
+        "original": 94.61,
+        "watermarked": 100.00,
+        "attacked": 82.47},
+    {
+        "original": 88.64,
+        "watermarked": 99.99,
+        "attacked": 99.83},
+    {
+        "original": 85.41,
+        "watermarked": 100.00,
+        "attacked": 96.97},
+    {
+        "original": 43.64,
+        "watermarked": 96.09,
+        "attacked": 21.17},
+    {
+        "original": 22.65,
+        "watermarked": 99.47,
+        "attacked": 54.32},
+    {
+        "original": 0.44,
+        "watermarked": 99.85,
+        "attacked": 25.88},
+    {
+        "original": 16.95,
+        "watermarked": 99.93,
+        "attacked": 85.07},
+    {
+        "original": 37.39,
+        "watermarked": 100.00,
+        "attacked": 92.32},
+    {
+        "original": 36.27,
+        "watermarked": 100.00,
+        "attacked": 93.67},
+    {
+        "original": 50.00,
+        "watermarked": 50.00,
+        "attacked": 82.71},
+    {
+        "original": 34.31,
+        "watermarked": 100.00,
+        "attacked": 99.38},
+    {
+        "original": 99.02,
+        "watermarked": 100.00,
+        "attacked": 99.98},
+    {
+        "original": 50.00,
+        "watermarked": 99.84,
+        "attacked": 98.37},
+    {
+        "original": 2.31,
+        "watermarked": 100.00,
+        "attacked": 38.89},
+    {
+        "original": 62.34,
+        "watermarked": 100.00,
+        "attacked": 84.38},
+    {
+        "original": 55.01,
+        "watermarked": 99.81,
+        "attacked": 97.96},
+    {
+        "original": 91.38,
+        "watermarked": 100.00,
+        "attacked": 99.37},
+    {
+        "original": 92.14,
+        "watermarked": 100.00,
+        "attacked": 94.61},
+    {
+        "original": 86.33,
+        "watermarked": 100.00,
+        "attacked": 96.61},
+    {
+        "original": 54.17,
+        "watermarked": 100.00,
+        "attacked": 98.84},
+    {
+        "original": 42.37,
+        "watermarked": 99.99,
+        "attacked": 46.18},
+    {
+        "original": 96.10,
+        "watermarked": 100.00,
+        "attacked": 99.42},
+    {
+        "original": 30.21,
+        "watermarked": 100.00,
+        "attacked": 85.41},
+    {
+        "original": 80.38,
+        "watermarked": 100.00,
+        "attacked": 76.66},
+    {
+        "original": 57.85,
+        "watermarked": 100.00,
+        "attacked": 93.22},
+    {
+        "original": 40.13,
+        "watermarked": 100.00,
+        "attacked": 97.65},
+    {
+        "original": 93.99,
+        "watermarked": 100.00,
+        "attacked": 95.94},
+    {
+        "original": 59.19,
+        "watermarked": 100.00,
+        "attacked": 96.50},
+    {
+        "original": 55.27,
+        "watermarked": 100.00,
+        "attacked": 79.29},
+    {
+        "original": 74.88,
+        "watermarked": 99.91,
+        "attacked": 98.37},
+    {
+        "original": 64.73,
+        "watermarked": 99.97,
+        "attacked": 93.93},
+    {
+        "original": 88.64,
+        "watermarked": 100.00,
+        "attacked": 95.78},
+    {
+        "original": 0.77,
+        "watermarked": 99.60,
+        "attacked": 63.73},
+    {
+        "original": 40.28,
+        "watermarked": 99.97,
+        "attacked": 97.72},
+    {
+        "original": 67.68,
+        "watermarked": 99.90,
+        "attacked": 74.88},
+    {
+        "original": 23.40,
+        "watermarked": 99.82,
+        "attacked": 34.00},
+    {
+        "original": 69.60,
+        "watermarked": 100.00,
+        "attacked": 96.69},
+    {
+        "original": 65.19,
+        "watermarked": 100.00,
+        "attacked": 99.31},
+    {
+        "original": 59.32,
+        "watermarked": 99.95,
+        "attacked": 95.63},
+    {
+        "original": 3.54,
+        "watermarked": 100.00,
+        "attacked": 80.74},
+    {
+        "original": 86.55,
+        "watermarked": 100.00,
+        "attacked": 94.20},
+    {
+        "original": 10.04,
+        "watermarked": 99.75,
+        "attacked": 83.66},
+    {
+        "original": 54.27,
+        "watermarked": 100.00,
+        "attacked": 97.94},
+    {
+        "original": 82.21,
+        "watermarked": 100.00,
+        "attacked": 99.92},
+    {
+        "original": 59.19,
+        "watermarked": 100.00,
+        "attacked": 71.81},
+    {
+        "original": 74.12,
+        "watermarked": 100.00,
+        "attacked": 99.77},
+    {
+        "original": 29.60,
+        "watermarked": 99.87,
+        "attacked": 70.84},
+    {
+        "original": 46.15,
+        "watermarked": 100.00,
+        "attacked": 71.81},
+    {
+        "original": 83.27,
+        "watermarked": 100.00,
+        "attacked": 99.80},
+    {
+        "original": 90.43,
+        "watermarked": 100.00,
+        "attacked": 99.67},
+    {
+        "original": 50.00,
+        "watermarked": 99.99,
+        "attacked": 59.72},
+    {
+        "original": 9.12,
+        "watermarked": 99.32,
+        "attacked": 73.65},
+    {
+        "original": 42.07,
+        "watermarked": 100.00,
+        "attacked": 92.35},
+    {
+        "original": 84.13,
+        "watermarked": 100.00,
+        "attacked": 96.26},
+    {
+        "original": 99.55,
+        "watermarked": 100.00,
+        "attacked": 78.59},
+    {
+        "original": 97.94,
+        "watermarked": 100.00,
+        "attacked": 91.72},
+    {
+        "original": 88.49,
+        "watermarked": 100.00,
+        "attacked": 99.07},
+    {
+        "original": 68.72,
+        "watermarked": 100.00,
+        "attacked": 97.40},
+    {
+        "original": 81.49,
+        "watermarked": 100.00,
+        "attacked": 95.75},
+    {
+        "original": 44.91,
+        "watermarked": 99.98,
+        "attacked": 97.89},
+    {
+        "original": 95.42,
+        "watermarked": 100.00,
+        "attacked": 83.27},
+    {
+        "original": 100.00,
+        "watermarked": 100.00,
+        "attacked": 100.00},
+    {
+        "original": 98.98,
+        "watermarked": 100.00,
+        "attacked": 100.00},
+    {
+        "original": 3.42,
+        "watermarked": 100.00,
+        "attacked": 74.62},
+    {
+        "original": 75.70,
+        "watermarked": 100.00,
+        "attacked": 99.23},
+    {
+        "original": 35.49,
+        "watermarked": 99.99,
+        "attacked": 89.44},
+    {
+        "original": 46.11,
+        "watermarked": 100.00,
+        "attacked": 84.13},
+    {
+        "original": 8.88,
+        "watermarked": 100.00,
+        "attacked": 97.11},
+    {
+        "original": 54.32,
+        "watermarked": 100.00,
+        "attacked": 99.02},
+    {
+        "original": 19.81,
+        "watermarked": 99.99,
+        "attacked": 98.03},
+    {
+        "original": 57.63,
+        "watermarked": 100.00,
+        "attacked": 38.15}
+]
